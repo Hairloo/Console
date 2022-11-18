@@ -21,6 +21,7 @@ namespace Lesson_1
             //task3_1();
             //task3_2();
             //task3_3();
+            //task3_3();
         }
 
         static void task1_1()
